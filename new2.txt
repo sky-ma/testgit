@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 testgit
 333
+=======
+clonegit
+1111
+>>>>>>> eb985a8bf5afe922b0aea290b03c312cacd607bf
